@@ -1,0 +1,12 @@
+.navStyle {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: '1rem';
+}
+
+
+
+/*.navStyle:not(:first-child)( {
+  margin-left: 1rem;
+}*/

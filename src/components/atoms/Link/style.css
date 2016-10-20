@@ -1,0 +1,15 @@
+.link {
+  display: flex;
+  list-style: none;
+  font-weight: 200;
+  color: black;
+  font-size: 1.25rem;
+  padding-left: 10px;
+  text-decoration:none;
+}
+
+
+.link:hover {
+  color: red;
+  text-decoration:underline;
+}
